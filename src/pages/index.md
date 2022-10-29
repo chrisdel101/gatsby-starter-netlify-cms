@@ -2,7 +2,7 @@
 templateKey: index-page
 title: Changeded Text
 image: /img/img_0191.jpg
-heading: Great coffee with a conscience
+heading: I've Changed this text
 subheading: Support sustainable farming while enjoying a cup
 mainpitch:
   title: Test Some Content
