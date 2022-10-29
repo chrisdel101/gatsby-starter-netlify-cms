@@ -1,6 +1,6 @@
 ---
 templateKey: index-page
-title: Changeded Text
+title: XXXXXXX
 image: /img/img_0191.jpg
 heading: I've Changed this text
 subheading: Support sustainable farming while enjoying a cup
